@@ -426,9 +426,6 @@
 <table>
    <tr>
       <td valign="top">
-         <img src="https://github-readme-stats.vercel.app/api?username=DmytroBezklubik&show_icons=true&count_private=true&hide_border=true&theme=shades-of-purple" align="left" style="width: 100%" />
-      </td>
-      <td valign="top">
          <img src="https://github-readme-streak-stats.herokuapp.com/?user=DmytroBezklubik&theme=shades-of-purple" align="left" style="width: 100%" />
       </td>
    </tr>
